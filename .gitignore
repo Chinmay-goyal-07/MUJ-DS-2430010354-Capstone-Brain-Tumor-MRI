@@ -1,0 +1,17 @@
+# Data and model weights (large - do not commit)
+data/
+*.zip
+*.pt
+*.pth
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
